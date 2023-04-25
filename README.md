@@ -1,9 +1,9 @@
 # Course-Outline-Manager
 A Course Outline Manager for Western University's ECE Department built with MERN stack.
 
-Frontend: React
+Frontend: React, Axios
 
-Backend: Node.js, Express, MongoDB, Axios
+Backend: Node.js, Express, MongoDB
 
 Screencaps:
 
