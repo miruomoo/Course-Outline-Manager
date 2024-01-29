@@ -12,6 +12,6 @@ Screencaps:
 
 To Run:
 
-- $npm i
-- #npm run dev
-- Application available on http://localhost:3000/
+- `npm i`
+- `npm run dev`
+- Application available on `http://localhost:3000/`
