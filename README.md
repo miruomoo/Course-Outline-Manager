@@ -1,17 +1,36 @@
-# Course-Outline-Manager
-A Course Outline Manager for Western University's ECE Department built with MERN stack.
+# Course Outline Manager
 
-Frontend: React, Axios
+A web-based Course Outline Manager for Western University's ECE Department, built using the **MERN stack**.
 
-Backend: Node.js, Express, MongoDB
+---
 
-Screencaps:
+## 🛠️ Tech Stack
 
-<img src="./screencaps/loginscreen.png" alt="login" width="80%"/>
-<img src="./screencaps/courseoutlines.png" alt="outlines" width="80%"/>
+- **Frontend**: React, Axios  
+- **Backend**: Node.js, Express  
+- **Database**: MongoDB
 
-To Run:
+---
 
-- `npm i`
-- `npm run dev`
-- Application available on `http://localhost:3000/`
+## 📸 Screenshots
+
+<img src="./screencaps/loginscreen.png" alt="Login Screen" width="80%"/>
+<br/>
+<img src="./screencaps/courseoutlines.png" alt="Course Outlines" width="80%"/>
+
+---
+
+## 🚀 Getting Started
+
+To run the application locally:
+
+```bash
+# Install dependencies
+npm i
+
+# Start the development server
+npm run dev
+
+Once running, open your browser and go to:
+
+http://localhost:3000/
