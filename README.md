@@ -25,6 +25,8 @@ A web-based Course Outline Manager for Western University's ECE Department, buil
 To run the application locally:
 
 ```bash
+cd into my-app and backend, then:
+
 # Install dependencies
 npm i
 
